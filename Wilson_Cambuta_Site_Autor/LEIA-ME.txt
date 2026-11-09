@@ -1,0 +1,7 @@
+SITE DE AUTOR — WILSON CAMBUTA
+
+Para visualizar: abrir index.html num navegador.
+Para publicar: carregar o conteúdo desta pasta para um alojamento estático (Netlify, GitHub Pages ou equivalente).
+O site inclui PDF e EPUB; ao publicar ficam disponíveis para descarregamento público.
+Não existe recolha de dados ou formulário.
+O título da colecção é provisório.
