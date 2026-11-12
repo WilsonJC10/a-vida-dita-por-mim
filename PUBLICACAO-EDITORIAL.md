@@ -18,6 +18,19 @@ Esta proposta parte da versão `main` após o carregamento de seis ficheiros pel
 - `publicacoes/Mudar_o_Mundo_Wilson_Cambuta_A5_Revisto.pdf`
 - `publicacoes/Mudar_o_Mundo_Wilson_Cambuta.epub`
 
+## Próximos ensaios independentes (anúncio editorial)
+Os cinco títulos seguintes foram fornecidos pelo autor e estão integrados apenas como futuras publicações no site, **sem texto, capas ou botões de descarregamento**. A sequência começa no 02, dando continuidade a «Mudar o Mundo» como ensaio independente 01.
+
+| Número | Título | Tema |
+|---|---|---|
+| 02 | Abraçar o movimento da vida | Existir sem depender das conquistas |
+| 03 | Três décadas neste planeta Terra | Observação da vida e do sofrimento humano |
+| 04 | O pedestal ilusório | Dualidade circunstancial, vulnerabilidade e compaixão |
+| 05 | A distração merece um despertar | Autoconhecimento e reconhecimento da humanidade |
+| 06 | Ousar ser eu mesmo | Liberdade, presença e recusa de impor verdades |
+
+**Regra de implementação:** quando um destes ensaios estiver concluído e validado, preparar PDF/EPUB e capa, enviar para `publicacoes/` e `assets/`, ativar os links após verificar os nomes reais dos ficheiros e alterar o estado apenas do título em causa.
+
 ## Antes de publicar
 - [ ] Confirmar conformidade literária de ambas as edições com os textos aprovados.
 - [ ] Verificar visualmente desktop e telemóvel.
